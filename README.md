@@ -6,7 +6,7 @@ Note: This token must be in a single line a file named `.mapbox_token`.
 
 --- 
 ## Son bir yıla ait İstanbul civarındaki depremlerin görselleştirilmesi
-Amaç : İBB'nin sağlamış olduğu servis aracılığı ile temin edilen deprem bilgilerini haritalarnmasını sağlar.
+Amaç : İBB'nin sağlamış olduğu servis aracılığı ile temin edilen deprem bilgilerinin haritalarnmasını sağlar.
 
 Haritalama yapabilmek için [mapbox.com](mapbox.com)'dan ücretsiz token almak gerekiyor.   
 Not: Bu token `.mapbox_token` adlı dosyada tek satırda yer almalı. 
