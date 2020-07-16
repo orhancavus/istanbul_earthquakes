@@ -1,4 +1,3 @@
----
 ## Visualization of earthquakes around Istanbul for the last year
 Objective: Maps the earthquake information provided by Istanbul Municipality.
 
