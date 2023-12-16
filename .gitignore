@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 
-# My custom files 16.07.2020
+# My custom files 
+notebook/
+.DS_Store
+*.swp
+
 .mapbox_token
-ibn_deprem_sandbox.ipynb
